@@ -1,0 +1,10 @@
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\bin\Debug\AtmSimulator.exe.config
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\bin\Debug\AtmSimulator.exe
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\bin\Debug\AtmSimulator.pdb
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.csprojAssemblyReference.cache
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.Form1.resources
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.Properties.Resources.resources
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.csproj.GenerateResource.cache
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.csproj.CoreCompileInputs.cache
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.exe
+C:\Users\navjo\Documents\AutomatedTellerSimulator\WindowsFormsApp1\AtmSimulator\AtmSimulator\obj\Debug\AtmSimulator.pdb
